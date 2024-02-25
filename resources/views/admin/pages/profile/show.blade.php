@@ -36,8 +36,6 @@
                                         <img src="{{ asset('storage/' . $profile->gambar) }}" alt="Gambar Profile"
                                             style="max-width: 100%;">
                                         {{-- Debugging: Menampilkan path gambar --}}
-
-
                                     </div>
                                 </div>
                             </div>
